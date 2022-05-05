@@ -23,6 +23,7 @@ Porém a parte mais desafiadora foi a estilização da página.
 Aprendemos muito a contribuir em grupo e dividir as responsabilidades.
 
 ## Instalação
-Basta clonar o repositório para a sua máquina através do comando e instalar as dependências:
+Basta clonar o repositório para a sua máquina através do comando:
 * `git clone git@github.com:brenoccamp/Jobs-Search.git`.
+Em seguida entre na pasta e rode o comando:
 * `npm install`
