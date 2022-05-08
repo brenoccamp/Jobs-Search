@@ -2,6 +2,7 @@
 # Boas vindas ao repositório do projeto Jobs Company
 
 Este projeto foi desenvolvido em um grupo de 3 pessoas enquanto eu estava estudando programação full stack na Trybe.
+Este projeto consome a API da Adzuna (https://developer.adzuna.com/) fazendo requisições para receber vagas de emprego de acordo com os filtros escolhidos pelo usuário.
 
 ## Link para acessar online:
 
